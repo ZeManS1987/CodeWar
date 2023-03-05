@@ -1,5 +1,5 @@
 package TicTacToe;
-
+//https://www.codewars.com/kata/525caa5c1bf619d28c000335/train/java
 //If we were to set up a Tic-Tac-Toe game, we would want to
 // know whether the board's current state is solved, wouldn't
 // we? Our goal is to create a function that will check that for us!
